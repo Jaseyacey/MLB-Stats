@@ -17,6 +17,7 @@ const statTypes = [
   "doubles",
   "triples",
   "homeRuns",
+  "hits",
   "strikeOuts",
   "baseOnBalls",
   "caughtStealing",
