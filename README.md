@@ -13,7 +13,7 @@ cd .. && npm install
 ```
 4. Start the server
 ```bash
-npm run dev
+npm run server
 ```
 5. Start the client
 ```bash
