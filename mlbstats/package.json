@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "server": "python3 ../MLBStatsAPi/app.py",
     "start": "next start",
     "lint": "next lint"
   },
